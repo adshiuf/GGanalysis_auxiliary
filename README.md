@@ -1,0 +1,2 @@
+# GGanalysis_auxiliary
+一个为了方便使用GGanalysis的便捷小工具
